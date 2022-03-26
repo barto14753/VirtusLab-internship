@@ -30,7 +30,7 @@ There are two types of endpoints:
         }
 
 
-* products/{discountType} - in body should be passed product names from ProductDb with quantity in such JSON format
+* products/{discountType} - product names from ProductDb with quantity should be passed a body in such JSON format
 
 
         {
@@ -39,7 +39,7 @@ There are two types of endpoints:
         "Nothing": 3
         }
 
-Both types response with Receipt in format down below
+Both types responsd with Receipt in format down below
 
         {
         "entries": [
