@@ -1,4 +1,4 @@
-# VirtusLab-intership Java
+# VirtusLab-internship Java
 VirtusLab Java internship recruitment task
 
 ## Candidate: Bartosz Włodarski
